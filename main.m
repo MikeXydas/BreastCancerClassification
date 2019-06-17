@@ -1,5 +1,5 @@
 %% Initialize variables - care this will have to change.
-filename = 'C:\Users\Miifoo\Desktop\Sxolh\anagnorisi\BreastCancerData.csv';
+filename = 'BreastCancerData.csv';
 delimiter = ',';
 
 %% Format string for each line of text:
