@@ -6,9 +6,9 @@
 ## Introduction
  A small and compact Matlab script that solves a breast cancer classification with KNN, SVM, Naive Bayes and Decision Tree.
 The dataset used is the breast-cancer-dataset-wisconsin ([http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)))
-I have included some info about where this dataset has been used and which are the characteristics in dataSetInfo.txt.
+Info about where this dataset has been used and which are the characteristics can be found in dataSetInfo.txt.
 
-The aim of the project was to have a first touch with solving classification problems on Matlab, so I have not spent much time optimizing the parameters or in general taking a lot of metric into account.
+The aim of the project was to have a first touch with solving classification problems on Matlab, so I have not spent much time optimizing the parameters or in general taking a lot of metrics into account.
 
 ## Steps
 
